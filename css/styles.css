@@ -46,6 +46,10 @@
   margin-top:10px;
 }
 
+.make-big{
+  font-size: 20px;
+}
+
 #about-img{
   float:left;
   max-width:35%;
