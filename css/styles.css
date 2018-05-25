@@ -14,14 +14,38 @@
   padding-right:0px;
 }
 
+#home-text-area{
+  background-color: #24272a;
+  padding-top:50px;
+  text-align: right;
+}
+
+#home-text-area h1{
+  color: white;
+  font-family:"Poppins";
+}
+
+#home-text-area h2{
+  color: white;
+  font-family:"Poppins";
+}
+
+#skill-list{
+  color:purple;
+  font-family:serif;
+  font-style: italic;
+  font-size:30px;
+
+}
+
+#growing-up{
+  color: yellow;
+}
+
 #about-img{
   float:left;
   max-width:35%;
   margin-top: 10px;
   margin-right: 20px;
   border-radius:15px;
-}
-
-#home-text-area{
-  background-color: #24272a;
 }
