@@ -1,6 +1,6 @@
 # Code Review - "Portfolio Landing Page" - Week 1 - Intro To Programming - Epicodus - Portland, OR
 
-#### _This is a final project for the first week of the Intro to Programming course at Epicodus in Portland., May 21, 2018_
+#### _This is a final project for the first week of the Intro to Programming course at Epicodus in Portland, May 21, 2018_
 
 #### By _**Kelli McCloskey**_
 
