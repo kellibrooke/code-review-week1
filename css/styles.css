@@ -42,6 +42,10 @@
   color: yellow;
 }
 
+.space{
+  margin-top:10px;
+}
+
 #about-img{
   float:left;
   max-width:35%;
